@@ -12,7 +12,7 @@ and I'm passionate about product design, software architecture, technology, prog
 I've spoken on a variety of topics, including UI design, functional and reactive programming, and multi-container architecture.  
 🚀 Currently, I'm working on building the next generation of collaboration tools for development teams at Livecycle.  
 
-💻 Check out some of my talks and projects below:
+Check out some of my talks and projects below:
 
 :electron: OSS projects (Maintainer/Owner):
 - [Preey](https://github.com/livecycle/preevy) - preview environments provisioner
