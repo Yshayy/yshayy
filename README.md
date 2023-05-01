@@ -8,12 +8,11 @@ I'm Yshay, software engineer and co-founder of Livecycle. I've designed and deve
 and I'm passionate about product design, software architecture, technology, programming languages and OSS development. 
 
 🔥 I love tinkering with cutting-edge technologies to build great products that deliver real (and new) value to users.  
-💻 I'm deeply interested in OSS development. In past few years, I had the oppertunity to lead the development of several open source projects.  
 ✨ I enjoy sharing my knowledge with the community by giving talks at local meetups and public events.   
 I've spoken on a variety of topics, including UI design, functional and reactive programming, and multi-container architecture.  
 🚀 Currently, I'm working on building the next generation of collaboration tools for development teams at Livecycle.  
 
-Check out some of my talks and projects below:
+💻 Check out some of my talks and projects below:
 
 :electron: OSS projects (Maintainer/Owner):
 - [Preey](https://github.com/livecycle/preevy) - preview environments provisioner
@@ -23,8 +22,8 @@ Check out some of my talks and projects below:
 
 🎤 Talks:
 - [Instant self-contained Development Environments for Everyone](https://www.youtube.com/watch?v=wGlX_jjIMkU)
-- [Tweek - feature manager for the people (Hebrew)](https://www.youtube.com/watch?v=JNwYyjMtwtk])
 - [Experimenting with Deno for easier k8s deployments](https://www.youtube.com/watch?v=QbxU4VC7Q3s)
+- [Tweek - feature manager for the people (Hebrew)](https://www.youtube.com/watch?v=JNwYyjMtwtk])
 - [CRDs (Custom Resource Definitions) as application building blocks (Hebrew)](https://www.youtube.com/watch?v=GgFt0-aldo)
 - [Intro to RX (Hebrew)](https://www.youtube.com/watch?v=SLwwabfzqoU)
 - [The mysteries of observables of observables (slides only)](https://rx-israel-higher.surge.sh/)
